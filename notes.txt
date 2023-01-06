@@ -1,0 +1,3 @@
+carousel background is in style.css not in scss.
+removed .navbar-toggler:focus box-shadow from bootstrap.css manually after generation.
+increased opacity of .text-light (rgba) from bootstrap.css manually after generation.
