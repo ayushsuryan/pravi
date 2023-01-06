@@ -3,5 +3,8 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/mmvs3ktnejav/public_html/
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp main.css $DEPLOYPATH
-    - /bin/cp -R src $DEPLOYPATH
+    - /bin/cp notes.txt $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R lib $DEPLOYPATH
