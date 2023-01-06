@@ -3,3 +3,4 @@ removed .navbar-toggler:focus box-shadow from bootstrap.css manually after gener
 increased opacity of .text-light (rgba) from bootstrap.css manually after generation.
 added position: relative; and top: 105px; to carousel buttons in style.css.
 reduced the size of carousel buttons in media query in style.css.
+copyright background to black in style.css.
